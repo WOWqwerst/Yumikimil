@@ -1,3 +1,3 @@
 # Yumikimil
 Solo para discípulos autorizados del profe
-La carpeta cache se tiene que sumar a las carpetas contenidas en yumkimil
+Las carpetas mask_ tienen que ir dentro de la carpeta cache, posteriormente la carpeta cache debe de ir dentro de la carpeta yumkimil.
